@@ -1,0 +1,32 @@
+body{
+  background-color: #0b0b0f;
+  color: white;
+  transition: 500ms ease-in;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  margin-top: 15%;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+i{
+  color: white;
+  font-size: 30px;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.dark-mode{
+  color: black;
+}
+
+.dark-mode-bg{
+  background-color: white;
+}
+
+button{
+  background-color: transparent;
+  border: none;
+}
